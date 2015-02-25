@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/s_stpf/wms/!svn/ver/100/trunk/application/server/src/python/wms-api/wms-api
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/s_stpf/wms/!svn/ver/100/trunk/application/server/src/python/wms-api/wms-api/api.py
+END
+requirements.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/s_stpf/wms/!svn/ver/97/trunk/application/server/src/python/wms-api/wms-api/requirements.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/s_stpf/wms/!svn/ver/97/trunk/application/server/src/python/wms-api/wms-api/__init__.py
+END
