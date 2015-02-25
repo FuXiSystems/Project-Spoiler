@@ -15,10 +15,10 @@ from functools import wraps
 from werkzeug.exceptions import default_exceptions
 from werkzeug.exceptions import HTTPException
 
-import flask.ext.sqlalchemy
+import flask_sqlalchemy
 import flask.ext.restless
 
-from flask.ext.sqlalchemy import SQLAlchemy
+from flask_sqlalchemy import SQLAlchemy
 
 from sqlalchemy import BigInteger, Boolean, Column, Date, DateTime, ForeignKey, Index, Integer, Numeric, String, Table, Text, text
 #from sqlalchemy import create_engine
@@ -32,7 +32,8 @@ from sqlalchemy.orm import backref, relationship
 # Create the Flask application.
 app = flask.Flask(__name__)
 app.config['DEBUG'] = True
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:casper@localhost/wms'
+app.config['SQLALCHEMY_DATABASE_URI'] =  'postgresql://fuxiadmin:admin123@fuxi.cjbrs9qrutbu.us-west-2.rds.amazonaws.com:5432/wms'
+#app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:casper@localhost/wms'
 
 # Create the db Connection
 db = flask.ext.sqlalchemy.SQLAlchemy(app)
@@ -43,16 +44,6 @@ file_handler = logging.FileHandler('api.log')
 app.logger.addHandler(file_handler)
 app.logger.setLevel(logging.INFO)
 
-<<<<<<< .mine
-
-SQLALCHEMY_DATABASE_URI = 'postgresql://fuxiadmin:admin123@fuxi.cjbrs9qrutbu.us-west-2.rds.amazonaws.com:5432/wms'
-#SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:casper@localhost/wms'
-
-#db = flask.ext.sqlalchemy.SQLAlchemy(app)
-db = SQLAlchemy(app)
-
-=======
->>>>>>> .r100
 def today():
     return datetime.datetime.today().strftime('\%Y-\%m-\%d')
 
