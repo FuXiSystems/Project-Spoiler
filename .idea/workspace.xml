@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8717f186-cd56-4f5b-ba93-1cf076f44f45" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api\.svn\all-wcprops" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api\.svn\entries" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api\.svn\text-base\__init__.py.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api\.svn\text-base\api.py.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api\.svn\text-base\requirements.txt.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api\.svn\tmp\api.py.2.tmp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api\.svn\tmp\api.py.tmp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api_env\bin\activate" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api_env\bin\activate.csh" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api_env\bin\activate.fish" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api_env\bin\activate_this.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api_env\bin\easy_install" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api_env\bin\easy_install-2.7" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api_env\bin\pip" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api_env\bin\pip2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api_env\bin\pip2.7" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api_env\bin\python" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api_env\bin\python2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api_env\bin\python2.7" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api_env\include\python2.7" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api_env\pip-selfcheck.json" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api\__init__.py" afterPath="$PROJECT_DIR$/__init__.py" />
-      <change type="MOVED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api\api.py" afterPath="$PROJECT_DIR$/api.py" />
-      <change type="MOVED" beforePath="C:\Users\HADI\Documents\GitHub\Project-Spoiler\wms-api\requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api.py" afterPath="$PROJECT_DIR$/api.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Project-Spoiler.iws" />
@@ -41,6 +18,7 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Project-Spoiler$Project_Spoiler.coverage" NAME="Project-Spoiler Coverage Results" MODIFIED="1424891928626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Project-Spoiler$api__1_.coverage" NAME="api (1) Coverage Results" MODIFIED="1424951589469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project-Spoiler$api.coverage" NAME="api Coverage Results" MODIFIED="1424892422515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wms-api" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -58,8 +36,8 @@
       <file leaf-file-name="api.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45232815" vertical-offset="238" max-vertical-offset="14841">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.653944" vertical-offset="10776" max-vertical-offset="14841">
+              <caret line="649" column="0" selection-start-line="649" selection-start-column="0" selection-end-line="649" selection-end-column="0" />
               <folding>
                 <element signature="e#1#16#0" expanded="true" />
               </folding>
@@ -77,6 +55,7 @@
       <list>
         <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/wms-api/api.py" />
+        <option value="$PROJECT_DIR$/api.py" />
       </list>
     </option>
   </component>
@@ -153,7 +132,7 @@
       <recent name="C:\Users\HADI\Documents\GitHub\Project-Spoiler" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.api">
+  <component name="RunManager" selected="Python.api (1)">
     <configuration default="false" name="api" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,6 +147,26 @@
       <module name="Project-Spoiler" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\HADI\Documents\GitHub\Project-Spoiler\api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="api (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project-Spoiler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -381,13 +380,15 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.Project-Spoiler" />
       <item index="1" class="java.lang.String" itemvalue="Python.api" />
+      <item index="2" class="java.lang.String" itemvalue="Python.api (1)" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.api" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.api (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.api" />
       </list>
     </recent_temporary>
   </component>
@@ -408,12 +409,18 @@
       <option name="project" value="LOCAL" />
       <updated>1424890731607</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1424892512245</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1424892512245</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1552" height="842" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1552" height="842" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -423,7 +430,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287858" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -463,8 +470,18 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45232815" vertical-offset="238" max-vertical-offset="14841">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14841">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.653944" vertical-offset="10776" max-vertical-offset="14841">
+          <caret line="649" column="0" selection-start-line="649" selection-start-column="0" selection-end-line="649" selection-end-column="0" />
           <folding>
             <element signature="e#1#16#0" expanded="true" />
           </folding>
