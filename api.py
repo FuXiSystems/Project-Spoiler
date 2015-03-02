@@ -44,6 +44,9 @@ file_handler = logging.FileHandler('api.log')
 app.logger.addHandler(file_handler)
 app.logger.setLevel(logging.INFO)
 
+
+
+
 def today():
     return datetime.datetime.today().strftime('\%Y-\%m-\%d')
 
