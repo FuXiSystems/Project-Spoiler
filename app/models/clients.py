@@ -1,6 +1,5 @@
 __author__ = 'Mohamed'
 from app.models.model import Model
-# from app.models.advisers import Adviser
 
 from sqlalchemy.orm import relationship, backref
 from sqlalchemy.schema import Column, ForeignKey
@@ -33,7 +32,7 @@ class Client(Model):
             'surname': self.surname,
             'title': self.title,
             'shortname': self.shortname,
-            # 'adviser_id': self.adviser_id,
+            #'adviser_id': self.adviser_id,
             'date_of_birth': self.date_of_birth,
             'ni_number': self.ni_number,
             'image_id': self.image_id,
